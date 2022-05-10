@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JingunSnack
+- 👀 I’m interested in Parallel Programming
+- 🌱 I’m currently learning Rust
